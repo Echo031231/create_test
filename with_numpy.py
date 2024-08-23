@@ -1,5 +1,12 @@
 #使用numpy来搭建两层神经网络
 import numpy as np
+
+# 更改测试
+import random
+import time
+import turtle
+
+
 N = 64
 D_in = 1000
 D_out = 10
